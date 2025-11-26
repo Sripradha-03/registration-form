@@ -1,0 +1,8 @@
+{
+  "name": "online-registration-form",
+  "description": "Modern registration form application with PHP backend",
+  "version": "1.0.0",
+  "require": {
+    "php": "^7.0"
+  }
+}
